@@ -1,6 +1,9 @@
 #ifndef studRegSystem_h
 #define studRegSystem_h
 
+/**************************************************************************
+Declare header include files
+***************************************************************************/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
